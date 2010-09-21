@@ -7,7 +7,7 @@ end
 task :default => 'test'
 
 Bones {
-  name         'turn'
+  name         'openlogic-turn'
   summary      'Test::Unit Reporter (New) -- new output format for Test::Unit'
   authors      'Tim Pease'
   email        'tim.pease@gmail.com'
